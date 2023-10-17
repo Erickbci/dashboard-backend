@@ -13,5 +13,10 @@ export default {
         title: 'Percentage',
         type: 'number',
       },
+      {
+        name: 'job',
+        title: 'Job',
+        type: 'string',
+      },
     ],
   }
